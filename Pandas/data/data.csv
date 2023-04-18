@@ -1,0 +1,11 @@
+Region,Quarter,Month,Product,Revenue
+North America,Q1,January,Product A,10000
+North America,Q1,January,Product B,15000
+North America,Q1,February,Product A,12000
+North America,Q1,February,Product B,18000
+North America,Q2,April,Product A,11000
+North America,Q2,April,Product B,16000
+North America,Q2,May,Product A,13000
+North America,Q2,May,Product B,19000
+Europe,Q1,January,Product A,8000
+Europe,Q1,January,Product B,12000
